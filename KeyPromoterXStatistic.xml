@@ -961,6 +961,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Redo Move Statement Up">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Move Statement Up</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Redo Paste">
         <Item>
           <IdeaActionID>$Redo</IdeaActionID>
@@ -2526,7 +2534,7 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Backspace">
