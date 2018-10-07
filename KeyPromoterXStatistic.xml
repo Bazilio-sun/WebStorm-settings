@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3370</Count>
+          <Count>3375</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -350,7 +350,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '06-00-check-by-fias.es6'</Description>
-          <Count>213</Count>
+          <Count>215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '1.es6'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Right' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>158</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go To Hash/Branch/Tag">
@@ -1942,7 +1942,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>578</Count>
+          <Count>579</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
