@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3400</Count>
+          <Count>3406</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>899</Count>
+          <Count>900</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '!nx__t.es6'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '06-00-check-by-fias.es6'</Description>
-          <Count>230</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '1.es6'">
@@ -694,7 +694,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>913</Count>
+          <Count>915</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '06-00-check-by-fias.es6'</Description>
-          <Count>171</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1.es6'">
