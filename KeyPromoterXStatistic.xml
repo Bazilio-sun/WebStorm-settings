@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3432</Count>
+          <Count>3435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -350,7 +350,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug '06-00-check-by-fias.es6'</Description>
-          <Count>248</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '1.es6'">
@@ -670,7 +670,7 @@
           <IdeaActionID>XDebugger.CopyWatch</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Duplicate Watch</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '06-00-check-by-fias.es6'</Description>
-          <Count>188</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1.es6'">
