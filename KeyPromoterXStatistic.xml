@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3529</Count>
+          <Count>3531</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -654,7 +654,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>138</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -1398,6 +1398,22 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'API-court-by-address.spec.es6'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Antifraud DEV'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Antifraud DEV'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Antifraud PROD'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Antifraud PROD'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2215,6 +2231,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'API-court-by-address.spec.es6'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Antifraud DEV'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Antifraud DEV'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
