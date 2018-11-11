@@ -1649,6 +1649,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'export_all_houses.sh'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'export_all_houses.sh'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'flush-redis-couch.sh'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2383,6 +2391,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'debt.js'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'export_all_houses.sh'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'export_all_houses.sh'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'gen-rfc-2012.es6'">
