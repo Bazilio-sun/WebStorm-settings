@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>35</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3536</Count>
+          <Count>3529</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>435</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -110,7 +110,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>119</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy...">
@@ -654,7 +654,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>141</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -1070,7 +1070,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>594</Count>
+          <Count>591</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1401,22 +1401,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'Antifraud DEV'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'Antifraud DEV'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'Antifraud PROD'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'Antifraud PROD'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'CALC (MY)'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1646,14 +1630,6 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'equifax'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'export_all_houses.sh'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Run 'export_all_houses.sh'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -1934,7 +1910,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>170</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -2241,14 +2217,6 @@
           <Count>14</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'Antifraud DEV'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Antifraud DEV'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'CALC (MY)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2391,14 +2359,6 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'debt.js'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'export_all_houses.sh'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'export_all_houses.sh'</Description>
-          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'gen-rfc-2012.es6'">

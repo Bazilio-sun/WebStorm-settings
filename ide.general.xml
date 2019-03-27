@@ -10,6 +10,5 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
-    <entry key="ide.tooltip.show.with.actions" value="true" />
   </component>
 </application>
