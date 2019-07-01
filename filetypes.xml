@@ -8,6 +8,7 @@
       <mapping pattern="TODO,txt" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="Тест_angular" type="PLAIN_TEXT" />
+      <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern="Задачи по фильтрам" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern="Результат обработки 227 платежей" type="PLAIN_TEXT" />
