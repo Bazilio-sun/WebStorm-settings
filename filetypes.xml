@@ -4,11 +4,11 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Логирование запросов Waterline" type="Markdown" />
+      <mapping pattern="Тест_angular" type="PLAIN_TEXT" />
       <mapping pattern="PLAT-2111" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
-      <mapping pattern="Тест_angular" type="PLAIN_TEXT" />
       <mapping pattern="TODO,txt" type="PLAIN_TEXT" />
       <mapping pattern="1992" type="PLAIN_TEXT" />
       <mapping pattern="Задачи по фильтрам" type="PLAIN_TEXT" />
