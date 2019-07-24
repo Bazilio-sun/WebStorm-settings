@@ -30,6 +30,7 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="signed" type="XML" />
+      <removed_mapping ext="cleanupcursor" approved="true" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
