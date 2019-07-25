@@ -61391,5 +61391,11 @@
     <option name="TEXT">
       <value />
     </option>
+    <option name="SQL.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="FF0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
 </scheme>
