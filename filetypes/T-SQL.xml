@@ -1,21 +1,22 @@
 <filetype binary="false" description="T-SQL (MSSQL)" name="T-SQL">
-    <highlighting>
-        <options>
-            <option name="LINE_COMMENT" value="--" />
-            <option name="COMMENT_START" value="/*" />
-            <option name="COMMENT_END" value="*/" />
-            <option name="HEX_PREFIX" value="" />
-            <option name="NUM_POSTFIXES" value="" />
-            <option name="HAS_BRACES" value="true" />
-            <option name="HAS_BRACKETS" value="true" />
-            <option name="HAS_PARENS" value="true" />
-        </options>
-        <keywords keywords="absolute;action;add;admin;after;aggregate;allocate;alter;are;as;asc;assertion;asymmetric;at;atomic;authorization;backup;begin;binary;bit;both;break;browse;bulk;by;call;cascade;cascaded;case;catalog;char;char_;character;character_length;check;checkpoint;close;clustered;collation;column;commit;compute;connect;connection;constraint;constraints;containstable;continue;corresponding;create;cube;current;current_;current_date;cursor;database;date;dbcc;deallocate;dec;decimal;declare;default;deferrable;deferred;delete;deny;desc;describe;descriptor;diagnostics;disconnect;disk;distinct;distributed;domain;double;drop;dump;dynamic;else;end;end-exec;errlvl;escape;except;exception;exec;execute;exit;external;false;fetch;file;fillfactor;first;float;for;foreign;found;freetext;freetexttable;from;full;function;get;global;go;goto;grant;group;having;holdlock;identity;identity_insert;identitycol;if;immediate;include;index;indicator;initially;input;insensitive;insert;int;integer;intersect;interval;into;isolation;key;kill;language;last;leading;length;level;lineno;load;local;match;merge;modify;module;names;national;natural;nchar;next;no;nocheck;nonclustered;none;numeric;object;of;off;offsets;on;only;open;opendatasource;openquery;openrowset;openxml;option;order;out;output;over;overlaps;pad;partial;partition;path;percent;plan;position;precision;prepare;preserve;primary;print;prior;privileges;proc;procedure;public;raiserror;range;read;readtext;real;reconfigure;recursive;references;relative;replication;restore;restrict;return;returns;revert;revoke;role;rollback;rollup;row;rowcount;rowguidcol;rows;rule;save;schema;scroll;section;securityaudit;select;semantickeyphrasetable;semanticsimilaritydetailstable;semanticsimilaritytable;sequence;session;session_;set;sets;setuser;shutdown;size;smallint;sql;sqlcode;sqlerror;sqlstate;state;statement;static;statistics;symmetric;system;table;tablesample;temporary;textsize;then;time;timestamp;timezone_;timezone_minute;to;top;trailing;tran;transaction;translate;translation;trigger;trim;true;truncate;union;unique;unknown;updatetext;usage;use;user;using;value;values;varchar;varying;view;waitfor;when;whenever;where;while;with;within;within group;without;work;write;writetext;zone" ignore_case="true" />
-        <keywords2 keywords="avg;bit_length;cast;coalesce;collate;contains;convert;count;current_time;current_timestamp;current_user;day;extract;grouping;hour;lower;max;min;minute;mod;month;normalize;nullif;octet_length;second;session_user;space;substring;sum;system_user;try_convert;tsequal;update;upper;year" />
-        <keywords3 keywords="all;and;any;between;cross;exists;in;inner;is;join;left;like;not;null;or;outer;pivot;right;some;unpivot" />
-        <keywords4 />
-    </highlighting>
-    <extensionMap>
-        <mapping pattern="sql" />
-    </extensionMap>
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="--" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="absolute;action;add;admin;after;aggregate;allocate;alter;are;as;asc;assertion;asymmetric;at;atomic;authorization;backup;begin;binary;bit;both;break;browse;bulk;by;call;cascade;cascaded;case;catalog;char;char_;character;character_length;check;checkpoint;close;clustered;collation;column;commit;compute;connect;connection;constraint;constraints;containstable;continue;corresponding;create;cube;current;current_;current_date;cursor;database;date;dbcc;deallocate;dec;decimal;declare;default;deferrable;deferred;delete;deny;desc;describe;descriptor;diagnostics;disconnect;disk;distinct;distributed;domain;double;drop;dump;dynamic;else;end;end-exec;errlvl;escape;except;exception;exec;execute;exit;external;false;fetch;file;fillfactor;first;float;for;foreign;found;freetext;freetexttable;from;full;function;get;global;go;goto;grant;group;having;holdlock;identity;identity_insert;identitycol;if;immediate;include;index;indicator;initially;input;insensitive;insert;int;integer;intersect;interval;into;isolation;key;kill;language;last;leading;length;level;lineno;load;local;match;merge;modify;module;names;national;natural;nchar;next;no;nocheck;nonclustered;none;numeric;object;of;off;offsets;on;only;open;opendatasource;openquery;openrowset;openxml;option;order;out;output;over;overlaps;pad;partial;partition;path;percent;plan;position;precision;prepare;preserve;primary;print;prior;privileges;proc;procedure;public;raiserror;range;read;readtext;real;reconfigure;recursive;references;relative;replication;restore;restrict;return;returns;revert;revoke;role;rollback;rollup;row;rowcount;rowguidcol;rows;rule;save;schema;scroll;section;securityaudit;select;semantickeyphrasetable;semanticsimilaritydetailstable;semanticsimilaritytable;sequence;session;session_;set;sets;setuser;shutdown;size;smallint;sql;sqlcode;sqlerror;sqlstate;state;statement;static;statistics;symmetric;system;table;tablesample;temporary;textsize;then;time;timestamp;timezone_;timezone_minute;to;top;trailing;tran;transaction;translate;translation;trigger;trim;true;truncate;union;unique;unknown;updatetext;usage;use;user;using;value;values;varchar;varying;view;waitfor;when;whenever;where;while;with;within;within group;without;work;write;writetext;zone" ignore_case="true" />
+    <keywords2 keywords="avg;bit_length;cast;coalesce;collate;contains;convert;count;current_time;current_timestamp;current_user;day;extract;grouping;hour;lower;max;min;minute;mod;month;normalize;nullif;octet_length;second;session_user;space;substring;sum;system_user;try_convert;tsequal;update;upper;year" />
+    <keywords3 keywords="all;and;any;between;cross;exists;in;inner;is;join;left;like;not;null;or;outer;pivot;right;some;unpivot" />
+    <keywords4 />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="sql" />
+  </extensionMap>
 </filetype>
