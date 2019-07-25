@@ -15,7 +15,4 @@
     <keywords2 keywords="avg;bit_length;cast;coalesce;collate;contains;convert;count;current_time;current_timestamp;current_user;day;extract;grouping;hour;lower;max;min;minute;mod;month;normalize;nullif;octet_length;second;session_user;space;substring;sum;system_user;try_convert;tsequal;update;upper;year" />
     <keywords3 keywords="all;and;any;between;cross;exists;in;inner;is;join;left;like;not;null;or;outer;pivot;right;some;unpivot" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="sql" />
-  </extensionMap>
 </filetype>
