@@ -21,6 +21,7 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
+      <mapping ext="icls" type="XML" />
       <mapping ext="signed" type="XML" />
       <removed_mapping pattern="sql" approved="true" type="T-SQL" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
