@@ -16,7 +16,4 @@
     <keywords3 keywords="all;and;any;between;cross;exists;in;inner;is;join;left;like;not;null;or;outer;pivot;right;some;unpivot" />
     <keywords4 />
   </highlighting>
-  <extensionMap>
-    <mapping ext="sql" />
-  </extensionMap>
 </filetype>
