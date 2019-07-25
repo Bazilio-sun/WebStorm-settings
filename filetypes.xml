@@ -20,7 +20,7 @@
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
-      <removed_mapping ext="sql" type="SQL" />
+      <mapping ext="sql" type="SQL" />
       <mapping ext="signed" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
