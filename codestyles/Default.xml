@@ -34,6 +34,11 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
