@@ -35,7 +35,9 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
-    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
     <option name="SELECT_EL_COMMA" value="1" />
     <option name="FROM_EL_WRAP" value="2" />
   </SqlCodeStyleSettings>
