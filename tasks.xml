@@ -1,11 +1,11 @@
 <application>
   <component name="TaskStorage">
     <tasks>
+      <task priority="Normal" completed="false" estimated="0" created="1564372907740" actual="0" highlighted="false" highlightingtype="Red" title="Разобраться с ошибкой groupValue = null (+диагностика в слчае ошибки)" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1564372032632" actual="0" highlighted="false" highlightingtype="Red" title="Стоп ХП, когда другая работает" description="Запись события в лог" />
       <task priority="Normal" completed="false" estimated="0" created="1564547316529" actual="0" highlighted="false" highlightingtype="Red" title="+Последнее посещение группы" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1564547285581" actual="0" highlighted="false" highlightingtype="Red" title="Мин кол-во персон в фильтр. По умолчанию 3" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1564456700822" actual="0" highlighted="false" highlightingtype="Red" title="Удалить ненужные индексы personNN" description="Но вначале уточнить, точно ли они не используются" />
-      <task priority="Normal" completed="false" estimated="0" created="1564372907740" actual="0" highlighted="false" highlightingtype="Red" title="Разобраться с ошибкой groupValue = null (+диагностика в слчае ошибки)" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1564372032632" actual="0" highlighted="false" highlightingtype="Red" title="Стоп ХП, когда другая работает" description="Запись события в лог" />
       <task priority="Normal" completed="false" estimated="0" created="1564372932722" actual="0" highlighted="false" highlightingtype="Red" title="id доступа в поле" description="" />
     </tasks>
   </component>
