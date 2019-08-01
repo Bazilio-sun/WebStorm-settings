@@ -1,0 +1,8 @@
+<application>
+  <component name="translateMe">
+    <option name="autoDetect" value="true" />
+    <option name="splitCamelCase" value="true" />
+    <option name="splitUnderscores" value="true" />
+    <option name="translationTooltip" value="true" />
+  </component>
+</application>
