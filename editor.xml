@@ -24,14 +24,14 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="ff15" />
     </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\b(SS|VV)M\b.*">
+    <pattern useCustomColors="true" pattern="\b(SS|VV)M\b.*">
       <option name="FOREGROUND" value="760c" />
       <option name="BACKGROUND" value="f7ffbe" />
       <option name="FONT_TYPE" value="1" />
       <option name="EFFECT_COLOR" value="73ddff" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bVVR\b">
+    <pattern icon="important" useCustomColors="true" pattern="\bVVR\b">
       <option name="FOREGROUND" value="de382b" />
       <option name="BACKGROUND" value="ffd4b0" />
       <option name="FONT_TYPE" value="3" />
@@ -45,10 +45,10 @@
       <pattern index="3" />
     </filter>
     <filter name="VVM">
-      <pattern index="4" />
+      <pattern index="-1" />
     </filter>
     <filter name="VVR">
-      <pattern index="5" />
+      <pattern index="-1" />
     </filter>
   </component>
 </application>
