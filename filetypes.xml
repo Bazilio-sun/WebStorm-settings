@@ -1,24 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gitignore_global.txt" type="Git file" />
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="json_" type="PLAIN_TEXT" />
-      <mapping ext="alex" type="PLAIN_TEXT" />
-      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="sgn" type="PLAIN_TEXT" />
       <mapping ext="p7s" type="PLAIN_TEXT" />
-      <mapping ext="add" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
-      <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="add" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="alex" type="PLAIN_TEXT" />
       <mapping ext="signed" type="XML" />
       <removed_mapping ext="sql" approved="true" type="T-SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
@@ -31,6 +31,8 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
 </application>
