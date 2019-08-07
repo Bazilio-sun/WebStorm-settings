@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="как следует" />
+      <item value="properlly" />
+      <item value="should work prperlly" />
       <item value="elapsed" />
       <item value="fraud" />
       <item value="Мошенничество" />
@@ -13,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="RUSSIAN" value="8" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="RUSSIAN" value="11" />
       </map>
     </option>
   </component>
