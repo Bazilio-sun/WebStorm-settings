@@ -13,8 +13,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sh</mask>
-    <mask>*.vue</mask>
     <mask>*.sql</mask>
     <mask>*.js,*.es6</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
