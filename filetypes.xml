@@ -1,26 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="bat" type="Cmd" />
       <mapping ext="cmd" type="Cmd" />
+      <mapping ext="bat" type="Cmd" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="node" type="PLAIN_TEXT" />
-      <mapping pattern="settings" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping pattern="settings" type="PLAIN_TEXT" />
+      <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="json_" type="PLAIN_TEXT" />
-      <mapping ext="alex" type="PLAIN_TEXT" />
-      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="sgn" type="PLAIN_TEXT" />
       <mapping ext="p7s" type="PLAIN_TEXT" />
-      <mapping ext="add" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
-      <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="add" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="alex" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="signed" type="XML" />
