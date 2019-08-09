@@ -1,7 +1,6 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1565348184516" actual="0" highlighted="true" highlightingtype="Red" title="Пустые AccessedAt" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1564968218366" actual="0" highlighted="false" highlightingtype="Red" title="Отфильтровывать пустые group value на верхнем уровне" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1564547285581" actual="0" highlighted="false" highlightingtype="Red" title="Мин кол-во персон в фильтр. По умолчанию 3" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1564456700822" actual="0" highlighted="false" highlightingtype="Red" title="Удалить ненужные индексы personNN" description="Но вначале уточнить, точно ли они не используются" />
