@@ -1,4 +1,12 @@
 <code_scheme name="Default" version="173">
+  <DB2CodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </DB2CodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -23,17 +31,88 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <DerbyCodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script" />
+    <option name="HTML_KEEP_WHITESPACES" value="true" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+    <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,span,input" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="script" />
+    <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,kbd,label,q,s,samp,select,small,strike,strong,sub,sup,textarea,tt,u,var" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </MSSQLCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="QUERY_EL_COMMA" value="1" />
@@ -42,7 +121,18 @@
     <option name="SELECT_EL_COMMA" value="1" />
     <option name="FROM_EL_WRAP" value="2" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </SybaseCodeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
