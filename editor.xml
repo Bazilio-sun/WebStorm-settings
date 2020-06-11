@@ -22,7 +22,7 @@
     </pattern>
     <pattern icon="question" useCustomColors="true" pattern="\b(ss|vv|vvm)q\b.*">
       <option name="FOREGROUND" value="b000dc" />
-      <option name="BACKGROUND" value="fdff00" />
+      <option name="BACKGROUND" value="ffd900" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="ff15" />
     </pattern>
