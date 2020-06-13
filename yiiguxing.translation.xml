@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="adjusted" />
+      <item value="Заданный" />
       <item value="массив" />
       <item value="Разобранный путь должен быть в кеше" />
       <item value="Add skill" />
@@ -25,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="17" />
-        <entry key="RUSSIAN" value="18" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="RUSSIAN" value="20" />
       </map>
     </option>
   </component>
