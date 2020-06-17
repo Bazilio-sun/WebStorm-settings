@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There is no meta description for this parameter path" />
       <item value="adjusted" />
       <item value="Заданный" />
       <item value="массив" />
@@ -27,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="20" />
-        <entry key="RUSSIAN" value="20" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="RUSSIAN" value="21" />
       </map>
     </option>
   </component>
