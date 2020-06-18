@@ -2,7 +2,6 @@
   <component name="TaskStorage">
     <tasks>
       <task priority="Normal" completed="false" estimated="0" created="1592371472777" actual="0" highlighted="false" highlightingtype="Red" title="CONFIG-SERVICE" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1592371536607" actual="0" highlighted="false" highlightingtype="Red" title="section - в массив" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1592372962189" actual="0" highlighted="false" highlightingtype="Red" title="get-meta-default + get-meta-config" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1592371515421" actual="0" highlighted="false" highlightingtype="Red" title="Помощь src/README.md - дописать и перевести на англ" description="" />
       </task>
