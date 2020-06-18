@@ -13,6 +13,7 @@
     <entry key="ide.new.editor.tabs.selection.color" value="255,217,0" />
     <entry key="toolwindow.active.tab.contrast.background.color" value="40,113,255" />
     <entry key="toolwindow.active.tab.use.contrast.background" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
