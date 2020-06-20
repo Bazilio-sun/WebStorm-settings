@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/lorenwest/node-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Bazilio-san/j2t-alerts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\DEV\SAND" />
+    <option name="cloneParentDir" value="D:\DEV\FA" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
