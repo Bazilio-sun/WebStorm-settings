@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="post-commit" type="Bash" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <mapping ext="bat" type="Cmd" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="settings" type="PLAIN_TEXT" />
+      <mapping pattern="post-commit.sh" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
