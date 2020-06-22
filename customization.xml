@@ -135,21 +135,21 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="12">
+    <group value="RunToCursor" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ForceStepOver" is_action="true" action_type="1" position="13">
+    <group seperator="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ForceRunToCursor" is_action="true" action_type="1" position="14">
+    <group value="StepOut" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -161,7 +161,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ForceStepInto" is_action="true" action_type="1" position="15">
+    <group seperator="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -173,7 +173,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="StepOut" is_action="true" action_type="1" position="16">
+    <group value="ForceStepOver" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -185,7 +185,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="17">
+    <group value="ForceStepInto" is_action="true" action_type="1" position="17">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -197,7 +197,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EvaluateExpression" is_action="true" action_type="1" position="18">
+    <group value="ForceRunToCursor" is_action="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -209,7 +209,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="editRunConfigurations" is_action="true" action_type="1" position="19">
+    <group seperator="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -221,7 +221,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowLiveRunConfigurations" is_action="true" action_type="1" position="20">
+    <group seperator="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -233,7 +233,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="21">
+    <group value="EvaluateExpression" is_action="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -245,14 +245,35 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="editRunConfigurations" is_action="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="23">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ShowLiveRunConfigurations" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="VcsShowNextChangeMarker" is_action="true" action_type="1" position="24">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="VcsShowPrevChangeMarker" is_action="true" action_type="1" position="25">
