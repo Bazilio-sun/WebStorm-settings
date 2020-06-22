@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="schema" />
+      <item value="SCHEME" />
+      <item value="SCHEMA" />
       <item value="structure of properties like 'config' but with default property values" />
       <item value="undefined array items" />
       <item value="Changes in the properties of inner objects of copy are absent in the original" />
@@ -41,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="34" />
-        <entry key="RUSSIAN" value="34" />
+        <entry key="ENGLISH" value="37" />
+        <entry key="RUSSIAN" value="37" />
       </map>
     </option>
   </component>
