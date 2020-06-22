@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="полная" />
+      <item value="entare" />
       <item value="Recursive movement along branches of a Schema with a callback function call" />
       <item value="circuit" />
       <item value="traverse" />
@@ -48,8 +50,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="41" />
-        <entry key="RUSSIAN" value="41" />
+        <entry key="ENGLISH" value="42" />
+        <entry key="RUSSIAN" value="43" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
