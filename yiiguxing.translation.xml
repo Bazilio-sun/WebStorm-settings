@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unlike the get method, this function returns value as is, without additional information." />
+      <item value="The parameter value is passed in the property 'paramValue' of the object * and is accompanied by additional information:" />
       <item value="over Write" />
       <item value="Params" />
       <item value="appropriate" />
@@ -49,13 +51,11 @@
       <item value="Мошенничество" />
       <item value="Сотрудники" />
       <item value="relatives" />
-      <item value="Родственники" />
-      <item value="group appeared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="49" />
-        <entry key="RUSSIAN" value="49" />
+        <entry key="ENGLISH" value="51" />
+        <entry key="RUSSIAN" value="51" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
