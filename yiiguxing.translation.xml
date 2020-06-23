@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Params" />
       <item value="appropriate" />
       <item value="соответствующий" />
       <item value="string may represent a number" />
@@ -50,11 +51,10 @@
       <item value="Родственники" />
       <item value="group appeared" />
       <item value="group appear" />
-      <item value="tags origin master" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="RUSSIAN" value="48" />
         <entry key="ITALIAN" value="1" />
       </map>

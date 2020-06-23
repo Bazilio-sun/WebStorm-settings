@@ -23,7 +23,7 @@
     <mask>*.sh</mask>
     <mask>*.sql</mask>
     <mask>*.vue</mask>
-    <mask>*.js,*.es6</mask>
     <mask>*spec.es6</mask>
+    <mask>*.js,*.es6</mask>
   </component>
 </application>
