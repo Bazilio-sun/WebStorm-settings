@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="appropriate" />
+      <item value="соответствующий" />
       <item value="string may represent a number" />
       <item value="Если onlyStandardPaths = false - в результирующий объект будут добавлены пути для идентификаторов переводов, указанные в схеме, даже если они отличаются от стандартных." />
       <item value="полная" />
@@ -52,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="44" />
-        <entry key="RUSSIAN" value="44" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="RUSSIAN" value="48" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
