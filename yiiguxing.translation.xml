@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="traverse" />
       <item value="Первое получение локализованной схемы после изменения" />
       <item value="actual" />
       <item value="localized Schema" />
@@ -16,7 +17,6 @@
       <item value="entare" />
       <item value="Recursive movement along branches of a Schema with a callback function call" />
       <item value="circuit" />
-      <item value="traverse" />
       <item value="Missing optional properties should be added" />
       <item value="schema" />
       <item value="SCHEME" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="RUSSIAN" value="54" />
         <entry key="ITALIAN" value="1" />
       </map>
