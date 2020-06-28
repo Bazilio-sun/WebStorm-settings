@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Удалено" />
       <item value="Schema passed is empty" />
       <item value="traverse" />
       <item value="Первое получение локализованной схемы после изменения" />
@@ -50,12 +51,11 @@
       <item value="как следует" />
       <item value="properlly" />
       <item value="should work prperlly" />
-      <item value="elapsed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="55" />
-        <entry key="RUSSIAN" value="55" />
+        <entry key="RUSSIAN" value="56" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
