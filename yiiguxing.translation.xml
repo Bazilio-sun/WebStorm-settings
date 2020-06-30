@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Feaches" />
+      <item value="Parameter update notifications" />
+      <item value="value of updated parameter" />
       <item value="memory footprint" />
       <item value="Small memory footprint. No dependencies" />
       <item value="dependencies" />
@@ -48,14 +51,12 @@
       <item value="Can't return or yield from here without responding or attaching an abort handler" />
       <item value="reveal" />
       <item value="Action failed" />
-      <item value="uid should be independent of array elements sequence or object propertyes" />
-      <item value="Обновить суммы группы" />
-      <item value="group GUID is invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="58" />
-        <entry key="RUSSIAN" value="58" />
+        <entry key="ENGLISH" value="60" />
+        <entry key="RUSSIAN" value="61" />
+        <entry key="SCOTS_GAELIC" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
