@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="продолжение" />
       <item value="arbitrary" />
       <item value="container for transmitting validation error message" />
       <item value="container for sending validation error messages" />
@@ -50,12 +51,11 @@
       <item value="Заданный" />
       <item value="массив" />
       <item value="Разобранный путь должен быть в кеше" />
-      <item value="Add skill" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="64" />
-        <entry key="RUSSIAN" value="64" />
+        <entry key="RUSSIAN" value="65" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
