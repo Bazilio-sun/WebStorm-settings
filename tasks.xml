@@ -10,6 +10,9 @@
       <task priority="Normal" completed="false" estimated="0" created="1564818044230" actual="0" highlighted="false" highlightingtype="Red" title="TODO YYQ" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1565426688520" actual="0" highlighted="false" highlightingtype="Red" title="TODO попробовать передавать маленькую выборку для конкретного @groupHash" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1593272486224" actual="0" highlighted="false" highlightingtype="Red" title="getDictionaryOnValueGet" description="Добавить вызов кастомной функции (передается при инициализации), которая будет дергаться синхронно при получении параметра     и заполнять возможные значения для списка поле &amp;quot;dictionary&amp;quot;     ф - getDictionaryOnValueGet" />
+      <task priority="Normal" completed="false" estimated="0" created="1599991892024" actual="0" highlighted="false" highlightingtype="Red" title="POIMY" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1599991929034" actual="0" highlighted="false" highlightingtype="Red" title="Рефакторинг no-quasar-build.pug / *.pug" description="" />
+      </task>
     </tasks>
   </component>
 </application>
