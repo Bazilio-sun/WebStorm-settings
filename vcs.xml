@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/Bazilio-san/af-lib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Bazilio-san/ko-kut.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\DEV\FA" />
+    <option name="cloneParentDir" value="D:\!SASHA\PROJ" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
