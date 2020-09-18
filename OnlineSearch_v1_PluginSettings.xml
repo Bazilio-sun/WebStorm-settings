@@ -13,11 +13,6 @@
           <option name="queryPlaceholder" value="#" />
         </SearchEngine>
         <SearchEngine>
-          <option name="name" value="N_pm" />
-          <option name="url" value="https://www.npmjs.com/search?q=#" />
-          <option name="queryPlaceholder" value="#" />
-        </SearchEngine>
-        <SearchEngine>
           <option name="name" value="_SearchCode" />
           <option name="url" value="https://searchcode.com/?q=#" />
           <option name="queryPlaceholder" value="#" />

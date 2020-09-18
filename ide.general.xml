@@ -4,21 +4,11 @@
     <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
-    <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
     <entry key="debugger.click.disable.breakpoints" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
-    <entry key="ide.new.editor.tabs.selection.color" value="255,217,0" />
-    <entry key="toolwindow.active.tab.contrast.background.color" value="40,113,255" />
-    <entry key="toolwindow.active.tab.use.contrast.background" value="true" />
-  </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="Memory" value="true" />
-      </map>
-    </option>
   </component>
 </application>
