@@ -6,6 +6,13 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Coverage" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -18,11 +25,37 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunConfiguration" is_action="true" action_type="1" position="3">
+    <group value="Coverage" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunConfiguration" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Diagrams" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Diagrams" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Popup Menu" />
+      <path value="Diagrams" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$Undo" is_action="true" action_type="1" position="4">
@@ -49,6 +82,13 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="VCS" />
+      <path value="VCS Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -66,6 +106,11 @@
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UML.ShowChanges" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="VCS Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="8">
@@ -237,18 +282,18 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="ChooseDebugConfiguration" icon="/usr/bin/ss/icons/WebStormIco/debug.png" />
-    <action id="ToggleBookmarkWithMnemonic" icon="D:/Work/WebStormIco/bookmark-prev.png" />
-    <action id="QuickChangeScheme" icon="D:/Work/WebStormIco/quick-switch-scheme.png" />
-    <action id="RestoreDefaultLayout" />
-    <action id="Run" icon="D:/Work/WebStormIco/run.png" />
-    <action id="ShowBookmarks" icon="D:/Work/WebStormIco/bookmark-list.png" />
-    <action id="MaximizeToolWindow" />
-    <action id="ToggleBookmark" icon="D:/Work/WebStormIco/bookmark-toggele.png" />
-    <action id="GotoPreviousBookmark" icon="D:/Work/WebStormIco/bookmark-prev.png" />
-    <action id="Debug" icon="D:/Work/WebStormIco/debug.png" />
-    <action id="ChooseRunConfiguration" icon="/usr/bin/ss/icons/WebStormIco/run.png" />
-    <action id="GotoNextBookmark" icon="D:/Work/WebStormIco/bookmark-prev.png" />
-    <action id="Resume" icon="D:/Work/WebStormIco/running.png" />
+    <action id="ChooseDebugConfiguration" icon="D:/ToolBox/WebStormIco/debug.png" />
+    <action id="ToggleBookmarkWithMnemonic" icon="D:/ToolBox/WebStormIco/bookmark-prev.png" />
+    <action id="QuickChangeScheme" icon="D:/ToolBox/WebStormIco/quick-switch-scheme.png" />
+    <action id="RestoreDefaultLayout" icon="D:/ToolBox/WebStormIco/restore-default-layout.png" />
+    <action id="Run" icon="D:/ToolBox/WebStormIco/run.png" />
+    <action id="ShowBookmarks" icon="D:/ToolBox/WebStormIco/bookmark-list.png" />
+    <action id="MaximizeToolWindow" icon="D:/ToolBox/WebStormIco/maximaze-tool-window.png" />
+    <action id="ToggleBookmark" icon="D:/ToolBox/WebStormIco/bookmark-toggele.png" />
+    <action id="GotoPreviousBookmark" icon="D:/ToolBox/WebStormIco/bookmark-prev.png" />
+    <action id="Debug" icon="D:/ToolBox/WebStormIco/debug.png" />
+    <action id="ChooseRunConfiguration" icon="D:/ToolBox/WebStormIco/run.png" />
+    <action id="GotoNextBookmark" icon="D:/ToolBox/WebStormIco/bookmark-prev.png" />
+    <action id="Resume" icon="D:/ToolBox/WebStormIco/running.png" />
   </component>
 </application>
