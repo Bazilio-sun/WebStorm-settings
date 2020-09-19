@@ -39,25 +39,6 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="Diagrams" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Scope View Popup Menu" />
-      <path value="Project View Popup Menu" />
-      <path value="Diagrams" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="UML.ShowChanges" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Popup Menu" />
-      <path value="Diagrams" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="$Undo" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -82,13 +63,6 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="UML.ShowChanges" is_action="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="VCS" />
-      <path value="VCS Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -108,11 +82,6 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="UML.ShowChanges" is_action="true" action_type="1" position="7">
-      <path value="root" />
-      <path value="VCS Local Changes Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="1" position="8">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -125,7 +94,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="QuickChangeScheme" is_action="true" action_type="1" position="9">
+    <group value="MaximizeToolWindow" is_action="true" action_type="1" position="9">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -137,7 +106,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="MaximizeToolWindow" is_action="true" action_type="1" position="10">
+    <group value="RestoreDefaultLayout" is_action="true" action_type="1" position="10">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -149,7 +118,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RestoreDefaultLayout" is_action="true" action_type="1" position="11">
+    <group value="QuickChangeScheme" is_action="true" action_type="1" position="11">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -216,7 +185,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="editRunConfigurations" is_action="true" action_type="1" position="17">
+    <group value="ShowLiveRunConfigurations" is_action="true" action_type="1" position="17">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -228,7 +197,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowLiveRunConfigurations" is_action="true" action_type="1" position="18">
+    <group seperator="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -238,13 +207,6 @@
     <group value="ToggleBookmark" is_action="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="19">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ToggleBookmarkWithMnemonic" is_action="true" action_type="1" position="20">
@@ -287,6 +249,7 @@
     <action id="QuickChangeScheme" icon="D:/ToolBox/WebStormIco/quick-switch-scheme.png" />
     <action id="RestoreDefaultLayout" icon="D:/ToolBox/WebStormIco/restore-default-layout.png" />
     <action id="Run" icon="D:/ToolBox/WebStormIco/run.png" />
+    <action id="ShowLiveRunConfigurations" icon="D:/ToolBox/WebStormIco/show-running-list.png" />
     <action id="ShowBookmarks" icon="D:/ToolBox/WebStormIco/bookmark-list.png" />
     <action id="MaximizeToolWindow" icon="D:/ToolBox/WebStormIco/maximaze-tool-window.png" />
     <action id="ToggleBookmark" icon="D:/ToolBox/WebStormIco/bookmark-toggele.png" />
